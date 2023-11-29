@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "filename" : "top-view-old-french-newspaper-pieces_23-2149318857.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "top-view-old-french-newspaper-pieces_23-2149318857 1.png",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "top-view-old-french-newspaper-pieces_23-2149318857 2.png",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
